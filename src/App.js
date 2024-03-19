@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <h4> Hi the Amplify deploying working successfully</h4>
       </header>
     </div>
   );
